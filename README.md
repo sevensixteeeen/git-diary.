@@ -1,12 +1,12 @@
 # git-diary.
 
-## what is git?
->Git is a distributed version control system, that tracks changes in code or files. It allows us to save sanpshots (commits),manage branches,and collaborate without chaos.
+## What is git?
+> git is a distributed version control system, that tracks changes in code or files. It allows us to save sanpshots (commits),manage branches,and collaborate without chaos.
 ---
-## what is github?
->github is a cloud platform that hosts git respositories and enable collaboration,It's allows developers to store, share, and manage their code online.
+## What is github?
+> github is a cloud platform that hosts git respositories and enable collaboration,It's allows developers to store, share, and manage their code online.
 ---
-## basic git commands
+## Basic git commands
 ```bash 
 git add 
 git commit -m "messages"
