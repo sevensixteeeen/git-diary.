@@ -19,5 +19,5 @@ git push      "upload to github"
 ```
 ---
 ## git worklflow
-working directory --> Staging --> commit --> puch
+> working directory --> Staging --> commit --> puch
 ---
