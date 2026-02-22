@@ -8,8 +8,10 @@
 ---
 ## Basic git commands
 ```bash 
-git add 
+git init
+git add
 git commit -m "messages"
+git status
 git branch
 git checkout
 git merge
