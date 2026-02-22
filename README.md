@@ -8,13 +8,16 @@
 ---
 ## Basic git commands
 ```bash 
-git init
-git add
-git commit -m "messages"
-git status
-git branch
-git checkout
-git merge
-git push
+git init      "initialize respository"
+git add       "stage changes"
+git commit -m "messages/save snapshot"
+git status    "check changes"
+git branch    "create branch" 
+git checkout  "switch branch"
+git merge     "combining multiple branch"
+git push      "upload to github"
 ```
+---
+## git worklflow
+working directory --> Staging --> commit --> puch
 ---
