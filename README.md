@@ -21,3 +21,6 @@ git push      "upload to github"
 ## git worklflow
 > working directory --> Staging --> commit --> puch
 ---
+
+### added documentation screenshort for creating a file in git.
+> <img width="1920" height="1080" alt="Screenshot 2026-02-23 205727" src="https://github.com/user-attachments/assets/1790ce07-4068-44a5-9633-ea71e054aa46" />
