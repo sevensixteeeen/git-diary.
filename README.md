@@ -19,8 +19,24 @@ git push      "upload to github"
 ```
 ---
 ## git worklflow
-> working directory --> Staging --> commit --> puch
+> working directory --> Staging --> local repo --> github
+```steps
+Working Directory
+    ↓
+git init
+    ↓
+Create file
+    ↓
+git status
+    ↓
+git add
+    ↓
+git commit
+    ↓
+git push
+```
 ---
 
 ### added documentation screenshort for creating a file in git.
 > <img width="1920" height="1080" alt="Screenshot 2026-02-23 205727" src="https://github.com/user-attachments/assets/1790ce07-4068-44a5-9633-ea71e054aa46" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-23 211805" src="https://github.com/user-attachments/assets/0b0bf1f3-3d66-4460-ac7e-6c82179ea832" />
