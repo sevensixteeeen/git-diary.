@@ -55,3 +55,12 @@ git push
 - Git allows you to see the full history of every commit.
 - You can revert back to any previous commit.
 - Git does not store a separate copy of every file in every commit, but keeps track of changes made in each commit!
+
+## Configure Git
+``` user:
+git config --global user.name "your name"
+git config --global user.name "716@example.com"
+```
+- use **--global** to set the value for every repository on your system.
+- use **--local** (the default) to set it only for current repository.
+
