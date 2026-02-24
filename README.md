@@ -35,6 +35,7 @@ git commit
     ↓
 git push
 ```
+##Key concepts of git
 - **Repository:** A folder where Git tracks your project and its history.
 - **Clone:** Make a copy of a remote repository on your computer.
 - **Stage:** Tell Git which changes you want to save next.
