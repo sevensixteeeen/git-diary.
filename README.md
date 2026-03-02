@@ -63,4 +63,3 @@ git config --global user.name "716@example.com"
 ```
 - use **--global** to set the value for every repository on your system.
 - use **--local** (the default) to set it only for current repository.
-
